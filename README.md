@@ -1,4 +1,4 @@
-# -Project-on-ATM
+# -Project-on-ATM (Console Based)
 Sample Operations of an ATM 
 
 This repository contains the implementation of an Automated Teller Machine (ATM) Simulation System, designed to mimic real-life ATM functionalities in a simplified manner. The project demonstrates how core banking operations can be managed programmatically, and is ideal for beginners or intermediate developers seeking to practice essential coding concepts.
